@@ -10,7 +10,7 @@
  
 
 
-- 🔭 I’m currently working at **Act Digital**
+- 🔭 I’m currently working at **Luby Software**
 
 - 🌱 I’m currently learning **NodeJS**
 
